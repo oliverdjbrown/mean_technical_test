@@ -5,9 +5,6 @@ We want to understand better how good you are integrating several technologies t
 
 We would like to generate a site that provides exchange information and general information of the sample platform selected to the end users.
 
-1. Fork this project and invite me (starl1n), you are going to work on the branch you just created and submit your changes there.
-2. Create a connection to these endpoints using the required technology:
-
 **Socket endpoint:** 
 wss://ws.bitmex.com/realtime?subscribe=instrument,orderBookL2_25:XBTUSD
 
@@ -26,6 +23,3 @@ https://www.bitmex.com/api/explorer/#!/Announcement/Announcement_get
 2. Knowledge of API integration between databases/API
 3. Also will show capabilities of handling the frontend technologies
 4. Familiarity with the language
-
-
-If you are unfamiliar with any part of the request, is fine, you can skip it **(but make a comment )**
