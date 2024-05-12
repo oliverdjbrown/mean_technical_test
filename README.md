@@ -2,7 +2,7 @@
   <a href="https://github.com/oliverdjbrown/" target="blank"><img src="https://sm-services.es/wp-content/uploads/2021/02/MEAN-Stack.jpg" width="200" alt="mean Logo" /></a>
 </p>
 
-# Valego Consulting - MeanStack
+# Valego Consulting - MeanStack Technical Test
 
 ## Project Technologies Details
 1) Backend => NodeJs
